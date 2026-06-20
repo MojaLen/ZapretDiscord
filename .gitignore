@@ -1,23 +1,8 @@
-### AL ###
-#Template for AL projects for Dynamics 365 Business Central
-#launch.json folder
+/utils/test results
+/utils/game_filter.enabled
+/lists/ipset-exclude-user.txt
+/lists/list-general-user.txt
+/lists/list-exclude-user.txt
+
 .vscode/
-#Cache folder
-.alcache/
-#Symbols folder
-.alpackages/
-#Snapshots folder
-.snapshots/
-#Testing Output folder
-.output/
-#Extension App-file
-*.app
-#Rapid Application Development File
-rad.json
-#Translation Base-file
-*.g.xlf
-#License-files
-*.bclicense
-*.flf
-#Test results file
-TestResults.xml
+/build/
